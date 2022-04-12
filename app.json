@@ -1,6 +1,6 @@
 {
   "name": "LEGENDBOT",
-  "description": "Made with Love And By Python Language With Hardwork... By @LegendBoy_XD❤ ",
+  "description": "Made with Love And By Python Language With Hardwork... By [Siva the boss](https://t.me/Sivatheboss)❤ ",
   "logo": "https://telegra.ph/file/7aca8e594e14f51f0ce14.jpg",
   "keywords": [
     "telegram",
@@ -10,9 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_K_Userbot",
+  "repository": "https://github.com/Sivatheboss88/USERBOT",
+  "website": "https://github.com/Sivatheboss88/USERBOT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,15 +19,15 @@
     },
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "siva the boss"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "19042248"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "a1d443cb79941a89c493f22abf4f84cb"
     },
     "LEGEND_STRING": {
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
@@ -65,7 +64,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "U Can Use This To Set Own Commands To Know More About It. ask in Group",
-      "value": "pro",
+      "value": "boss",
       "required": false
     },
     "TZ": {
